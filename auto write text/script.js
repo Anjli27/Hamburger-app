@@ -1,4 +1,4 @@
-const text = "Happy to be here keep going!! <3"
+const text = "Happy to be here keep going!! <3";
 
 let index = 0;
 
@@ -7,7 +7,7 @@ function writeText() {
 
     index++;
 
-    if (index > text.length - 1) {
+    if (index > text.length) {
         index = 0;
     }
 }
