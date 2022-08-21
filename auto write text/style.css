@@ -6,6 +6,9 @@
 }
 
 body {
+    background-color: #810652;
+    color: white;
+    font-size: 2rem;
     display: flex;
     align-items: center;
     font-family: 'Josefin Sans', sans-serif;
